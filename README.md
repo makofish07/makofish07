@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makofish07
 - 👀 I’m interested in coding and stuff
-- 🌱 I’m currently learning java and c++
+- 🌱 I’m code java python and c++
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: discord makofish07
 - 😄 Pronouns: she/her
